@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5270e7df274d78ab8cca76ef54ecb6ea",
+    "revision": "0f7f58f9268fa2097aed75bb2719690d",
     "url": "/react-curd-app/index.html"
   },
   {
-    "revision": "30f588e7882259510ff0",
+    "revision": "e43887bdb540cb956cf2",
     "url": "/react-curd-app/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-curd-app/static/js/2.ef25f143.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "30f588e7882259510ff0",
-    "url": "/react-curd-app/static/js/main.c2456a48.chunk.js"
+    "revision": "e43887bdb540cb956cf2",
+    "url": "/react-curd-app/static/js/main.8811cfe9.chunk.js"
   },
   {
     "revision": "43b384d26a5164285ba7",
