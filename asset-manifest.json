@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-curd-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-curd-app/static/js/main.c2456a48.chunk.js",
+    "main.js.map": "/react-curd-app/static/js/main.c2456a48.chunk.js.map",
+    "runtime-main.js": "/react-curd-app/static/js/runtime-main.fb1e930b.js",
+    "runtime-main.js.map": "/react-curd-app/static/js/runtime-main.fb1e930b.js.map",
+    "static/js/2.ef25f143.chunk.js": "/react-curd-app/static/js/2.ef25f143.chunk.js",
+    "static/js/2.ef25f143.chunk.js.map": "/react-curd-app/static/js/2.ef25f143.chunk.js.map",
+    "index.html": "/react-curd-app/index.html",
+    "precache-manifest.e1d73943cb1447c7726df647d5eade24.js": "/react-curd-app/precache-manifest.e1d73943cb1447c7726df647d5eade24.js",
+    "service-worker.js": "/react-curd-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-curd-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ef25f143.chunk.js.LICENSE.txt": "/react-curd-app/static/js/2.ef25f143.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-curd-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb1e930b.js",
+    "static/js/2.ef25f143.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c2456a48.chunk.js"
+  ]
+}
